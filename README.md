@@ -1,7 +1,7 @@
 ## Hi there 👋
 
-<!--
-**abhinavb25/abhinavb25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Mechatronics Engineer with 2 years of hands-on experience in product development and hardware design. Proficient in integrating mechanical, electronic, and software components to create innovative solutions. Skilled in CAD modeling, PCB design, and prototyping, with a strong ability to troubleshoot and optimize systems. Passionate about new technology to drive innovation and enhance product performance.
+
 
 Here are some ideas to get you started:
 
