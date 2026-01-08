@@ -116,13 +116,4 @@ Developed an autonomous robot capable of detecting and extinguishing fires while
 
 ---
 
-## 📫 Contact
-📧 abhinav.bhatia.2505@gmail.com  
-📍 Würzburg, Germany  
 
----
-
-### 🚀 Future Improvements
-- Add FPV drone build photos  
-- Add UAV hardware stack images  
-- Include CAD screenshots and flight test videos  
