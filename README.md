@@ -1,5 +1,4 @@
 ## Hi there 👋
- # 🚁 Abhinav Bhatia – UAV & FPV Hardware Portfolio
 
 Junior Hardware Developer with strong hands-on experience in **UAV hardware integration** and **high-performance FPV racing drones**.  
 Focused on real-world testing, sensor integration, and flight controller tuning for autonomous and high-speed aerial systems.
